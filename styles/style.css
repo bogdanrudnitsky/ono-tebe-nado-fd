@@ -1,1 +1,14 @@
-/* место для вашего кода */
+:root {
+  --color-light: #f5f5f5;
+  --color-white: #ffffff;
+  --color-dark: #333333;
+  --color-text: #000000; /* Добавлено */
+  --color-accent: #ff0000;
+
+  --gap-small: 8px;
+  --gap-medium: 16px;
+  --gap-large: 24px;
+  --gap-xl: 32px;
+
+  --shadow-small: 0 2px 4px rgba(0,0,0,0.1);
+}
