@@ -73,11 +73,6 @@ body {
 }
 
 .header__contacts {
-  font-size: 18px;
-  font-style: normal;
-  display: flex;
-  flex-direction: column;
-  text-align: left;
   margin-left: 184px;
 }
 
@@ -318,7 +313,7 @@ body {
   margin: 0 auto;
 }
 
-.footer__contacts {
+.contacts {
   font-size: 18px;
   font-style: normal;
   display: flex;
